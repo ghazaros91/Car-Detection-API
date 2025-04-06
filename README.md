@@ -5,7 +5,7 @@ README.md
 This project provides a RESTful API that detects cars in an image, counts the number of red cars, and generates a textual description of the image.
 
 ## Features
-- **Detects and counts cars** using YOLOv8.
+- **Detects and counts cars** using YOLOv10.
 - **Identifies red cars** based on color analysis.
 - **Generates an image description** using BLIP.
 - **FastAPI-based RESTful API**.
