@@ -18,7 +18,7 @@ Ensure you have **Python 3.8+** and [Poetry](https://python-poetry.org/docs/) in
 Clone the repository and install dependencies:
 ```sh
 # Clone the repository
-git clone <repo_url>
+git clone https://github.com/ghazaros91/Car-Detection-API.git
 cd car-detection-api
 
 # Install dependencies
